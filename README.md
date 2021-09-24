@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Andrew</h1>
+<h1>Hi 👋, I'm Andrew!</h1>
 <h3>A nomad guy</h3>
 
 - 🌱 I’m currently learning **AI, ML and Mathematics**
