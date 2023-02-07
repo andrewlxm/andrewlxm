@@ -3,7 +3,7 @@
 
 - 🌱 I have great interest in **Mathematics, Machine Learning, and NLP**
 
-- 📫 How to reach me **lnquan.work@gmail.com**
+- 📫 How to reach me **lnquan.math@gmail.com**
 
 - ⚡ Have a good day lmfao!!
 
