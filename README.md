@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **lnquan.math@gmail.com**
 
-- ⚡ Currently doing research about Graph theory, Neural ODEs, and Optimization Problems.
+- ⚡ Currently doing research about **Graph theory, Neural ODEs, and Optimization Problems**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
