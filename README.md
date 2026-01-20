@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Andrew!</h1>
 <h3>A nomad</h3>
 
-- 🌱 I have great interest in **Mathematics, Machine Learning, and NLP**
+- 🌱 I have great interest in **Mathematics and Machine Learning**
 
 - 📫 How to reach me **lnquan.math@gmail.com**
 
-- ⚡ Currently doing research about **Graph theory, Neural ODEs, and Optimization Problems**.
+- ⚡ Currently doing research about **Stochastic Optimization, and Control Theory for Attention**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
