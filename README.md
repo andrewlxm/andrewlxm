@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **lnquan.math@gmail.com**
 
-- ⚡ Currently doing research about **Stochastic Optimization, and Control Theory for Attention**.
+- ⚡ Currently doing research about **Stochastic Optimization, SDEs, Diffusion Models, and Optimal Transport**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
