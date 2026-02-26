@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Andrew!</h1>
 <h3>A nomad</h3>
 
-- 🌱 I have great interest in **Mathematics and Machine Learning**
+- 🌱 I have great interest in **Mathematics for Machine Learning**
 
 - 📫 How to reach me **lnquan.math@gmail.com**
 
